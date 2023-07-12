@@ -38,7 +38,7 @@
 
 
 
-## GitHub Stats
+### GitHub Stats
 
 <!-- Github Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkashay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
