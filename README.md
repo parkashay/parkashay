@@ -1,6 +1,5 @@
 ### This is Prakash Poudel
-|
-|-- A full stack web developer.
+  A full stack web developer.
 
 <!-- Github Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkashay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
