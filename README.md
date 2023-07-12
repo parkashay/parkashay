@@ -11,9 +11,9 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 &nbsp;
-![Typescript](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
-&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+&nbsp;
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
 &nbsp;
 
 ### Version Control Systems
@@ -32,6 +32,8 @@
 ![React](https://img.shields.io/badge/React-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
 &nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)
+&nbsp;
+![NextJS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 &nbsp;
 
 
