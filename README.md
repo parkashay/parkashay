@@ -1,8 +1,8 @@
-```php
- $person = {
-  name => 'Prakash Poudel',
-  role => 'Full Stack Developer',
-  interests => ['Music', 'Gaming', 'Swimming'],
+```javascript
+ const person = {
+  name : 'Prakash Poudel',
+  role : 'Full Stack Developer',
+  interests : ['Music', 'Gaming', 'Swimming'],
 }
 ```
 
