@@ -3,12 +3,7 @@
 
 
 <!-- Skills -->
-[![Skills](https://github-profile-skills-one.vercel.app/skill?id=laravel&level=A&theme=nord)](https://github.com/stummk/github-profile-skills)
-[![Skills](https://github-profile-skills-one.vercel.app/skill?id=react&level=A&theme=dark)](https://github.com/stummk/github-profile-skills)
-[![Skills](https://github-profile-skills-one.vercel.app/skill?id=javascript&level=A&theme=dark)](https://github.com/stummk/github-profile-skills)
-[![Skills](https://github-profile-skills-one.vercel.app/skill?id=typescript&level=B&theme=dark)](https://github.com/stummk/github-profile-skills)
-[![Skills](https://github-profile-skills-one.vercel.app/skill?id=HTML&level=A&theme=dark)](https://github.com/stummk/github-profile-skills)
-[![Skills](https://github-profile-skills-one.vercel.app/skill?id=CSS&level=A&theme=dark)](https://github.com/stummk/github-profile-skills)
+
 <!-- Github Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkashay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- End github stats -->
