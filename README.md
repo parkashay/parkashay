@@ -9,11 +9,6 @@
 
 ### Programming Languages
 
-
-![React](https://img.shields.io/badge/React-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
-&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)
-&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 &nbsp;
 ![Typescript](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,7 +29,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Frameworks and Platforms
-
+![React](https://img.shields.io/badge/React-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
+&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)
+&nbsp;
 
 
 
