@@ -1,5 +1,5 @@
-### This is Prakash Poudel
-  ## A full stack web developer.
+## This is Prakash Poudel
+  ### A full stack web developer.
 
 
 - 🔭 I’m currently working on Laravel and React Projects.
