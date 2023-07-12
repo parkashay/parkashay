@@ -15,9 +15,9 @@
 &nbsp;
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
-![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue)
 &nbsp;
-![Static Badge](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue)
+![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue)
 &nbsp;
 
 ### Version Control Systems
@@ -37,8 +37,7 @@
 &nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)
 &nbsp;
-![NextJS](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
-&nbsp;
+![Nextjs](https://img.shields.io/badge/nextjs-blue?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black&color=black)
 
 
 
