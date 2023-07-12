@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working on Laravel and React Projects.
-- 😄 Pronouns: He, His
 
 
 
