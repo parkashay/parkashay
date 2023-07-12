@@ -1,8 +1,8 @@
-```typescript
- const myself: Person = {
+```javascript
+ const person = {
   name : 'Prakash Poudel',
   role : 'Full Stack Developer',
-  interests : ['Music', 'Gaming', 'Swimming'],
+  interests : ['Music', 'Gaming', 'Coding'],
 }
 ```
 
