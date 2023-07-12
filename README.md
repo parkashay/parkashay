@@ -10,13 +10,13 @@
 ### Programming Languages
 
 
-![CSS3](https://img.shields.io/badge/React-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
 &nbsp;
-![HTML5](https://img.shields.io/badge/Laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23E34F26.svg?style=for-the-badge&logo=laravel&logoColor=white)
 &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 &nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 &nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 &nbsp;
