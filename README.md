@@ -1,5 +1,10 @@
-## This is Prakash Poudel
-  ### A full stack web developer.
+```javascript
+const person = {
+  name : 'Prakash Poudel',
+  role : 'Full Stack Developer',
+  interests : ['Music', 'Gaming', 'Swimming'],
+}
+```
 
 
 - 🔭 I’m currently working on Laravel and React Projects.
