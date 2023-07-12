@@ -5,7 +5,7 @@
 <!-- End github stats -->
 
 <!--START_SECTION:waka-->
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=parkashay&layout=compact)](https://wakatime.com/@parkashay)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=parkashay)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
 
 <!--
