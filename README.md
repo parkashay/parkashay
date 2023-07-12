@@ -13,12 +13,13 @@
 &nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 &nbsp;
+![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue)
+&nbsp;
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue)
 &nbsp;
-![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue)
-&nbsp;
+
 
 ### Version Control Systems
 
