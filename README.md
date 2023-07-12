@@ -17,7 +17,7 @@
 &nbsp;
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue)
 &nbsp;
-![Static Badge](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue)
+![Static Badge](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue)
 &nbsp;
 
 ### Version Control Systems
