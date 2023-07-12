@@ -16,7 +16,7 @@
 &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 &nbsp;
-![Typescript](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+![Typescript](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 &nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 &nbsp;
