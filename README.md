@@ -1,8 +1,8 @@
-```java
- public class Person = {
-  name = 'Prakash Poudel',
-  role = 'Full Stack Developer',
-  interests = ['Music', 'Gaming', 'Swimming'],
+```php
+ $person = {
+  name => 'Prakash Poudel',
+  role => 'Full Stack Developer',
+  interests => ['Music', 'Gaming', 'Swimming'],
 }
 ```
 
