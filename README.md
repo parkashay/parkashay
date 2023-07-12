@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=parkashay&layout=compact)](https://wakatime.com/@parkashay)
 <!--END_SECTION:waka-->
 
 <!--
