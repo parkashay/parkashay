@@ -1,6 +1,9 @@
 ### This is Prakash Poudel
   A full stack web developer.
 
+
+<!-- Skills -->
+[![Skills](https://github-profile-skills-one.vercel.app/skill?id=laravel&level=B)](https://github.com/stummk/github-profile-skills)
 <!-- Github Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkashay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- End github stats -->
