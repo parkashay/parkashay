@@ -1,4 +1,4 @@
-``` javascript
+```javascript
  const person = {
   name : 'Prakash Poudel',
   role : 'Full Stack Developer',
