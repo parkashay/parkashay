@@ -2,6 +2,18 @@
  $person = [
 'name' => 'Prakash Poudel',
 'interests' => ['Music', 'Gaming', 'Coding'],
+'skills' => [
+             'react' => true,
+             'laravel' => [
+                           'blade' => true,
+                           'livewire' => 'Little',
+                           'MySQL' => true
+                          ],
+             'nextJS' => [
+                          'frontend' => true,
+                          'backend' => 'Little'             ]
+                         ],
+             'GraphQl' => true
 ];
 ```
 
