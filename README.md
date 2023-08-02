@@ -10,8 +10,6 @@
 ![recently-played](https://spotify-recently-played-readme.vercel.app/api?user=jkiswpg75z69divwh9w75tvg3&count=3)
 
 
-
-
 ### Version Control Systems
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -24,6 +22,9 @@
 &nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+```
+If you lit a light in the dark, there will be a shadow. If you don't want the shadow to darken your heart, you have to turn towards the light.
+```
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=parkashay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parkashay&theme=dark&hide_border=false)<br/>
