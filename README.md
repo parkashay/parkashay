@@ -1,4 +1,4 @@
-```php
+``` php
  $person = [
             'name' => 'Prakash Poudel',
             'interests' => ['Music', 'Gaming', 'Coding'],
