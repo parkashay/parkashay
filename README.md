@@ -22,12 +22,7 @@
 &nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-```
-If you lit a light in the dark, there will be a shadow.
-    If you don't want the shadow to darken your heart,
- you have to turn towards the light.
-```
-### 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=parkashay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parkashay&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parkashay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
