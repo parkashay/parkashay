@@ -10,19 +10,6 @@
 ![recently-played](https://spotify-recently-played-readme.vercel.app/api?user=jkiswpg75z69divwh9w75tvg3&count=3)
 
 
-### Version Control Systems
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### Operating Systems
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
 ![](https://github-readme-stats.vercel.app/api?username=parkashay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parkashay&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parkashay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
