@@ -11,8 +11,7 @@
 ![recently-played](https://spotify-recently-played-readme.vercel.app/api?user=jkiswpg75z69divwh9w75tvg3&count=3)
 
 
-![](https://github-readme-stats.vercel.app/api?username=parkashay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=parkashay&theme=dark&hide_border=false)<br/>
+### .........
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parkashay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
