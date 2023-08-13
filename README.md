@@ -1,9 +1,9 @@
-``` php
- $person = [
-            'name' => 'Prakash Poudel',
-            'interests' => ['Music', 'Gaming', 'Coding'],
-            'skills' => ['React', 'Laravel', 'NextJS']
-           ];
+``` typescript
+ const person: Person = {
+  name: "Prakash Poudel",
+  skills: "Javascript, typescript, php",
+  interests: "gaming, music, coding",
+}
 // $free? game || movies : code ;
 ```
 
