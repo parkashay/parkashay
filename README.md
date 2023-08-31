@@ -4,7 +4,6 @@
   skills: "Javascript, typescript, php",
   interests: "gaming, music, coding",
 }
-// $free? game || movies : code ;
 ```
 
 ![spotify-now-playing](https://spotify-github-profile.vercel.app/api/view?uid=jkiswpg75z69divwh9w75tvg3&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)&nbsp;
