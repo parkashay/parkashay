@@ -1,8 +1,7 @@
 ``` typescript
  const person: Person = {
   name: "Prakash Poudel",
-  skills: "Javascript, typescript, php",
-  interests: "gaming, music, coding",
+// Laravel, React, Remix, Next
 }
 ```
 
