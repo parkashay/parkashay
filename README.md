@@ -1,7 +1,6 @@
 ``` typescript
  const person: Person = {
   name: "Prakash Poudel",
-// Laravel, React, Remix, Next
 }
 ```
 ```diff
