@@ -4,9 +4,9 @@
 }
 ```
 ```diff
-++ Laravel
 ++ React
 ++ Remix
+++ Laravel
 ++ Next
 ++ Sanity
 ++ GraphQL
