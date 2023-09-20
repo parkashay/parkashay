@@ -5,7 +5,12 @@
 }
 ```
 ```diff
-++ this is a test
+++ Laravel
+++ React
+++ Remix
+++ Next
+++ Sanity
+++ GraphQL
 ```
 ![recently-played](https://spotify-recently-played-readme.vercel.app/api?user=jkiswpg75z69divwh9w75tvg3&count=3)
 
