@@ -1,8 +1,6 @@
-``` typescript
- const person: Person = {
-  name: "Prakash Poudel",
-}
-```
+Prakash Poudel
+Computer Engineer
+Web Developer
 ```diff
 ++ React
 ++ Remix
