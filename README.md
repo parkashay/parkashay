@@ -1,6 +1,4 @@
-Prakash Poudel
-Computer Engineer
-Web Developer
+
 ```diff
 ++ React
 ++ Remix
