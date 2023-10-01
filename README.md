@@ -1,4 +1,4 @@
-<center>Prakash Poudel</center>
+<h3 align="center">Prakash Poudel</h3>
 
 ```diff
 ++ React
