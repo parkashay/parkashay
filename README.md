@@ -1,6 +1,6 @@
 <h3 align="center">Prakash Poudel</h3>
 
-<p align="center"> A Web Developer. </p>
+<p align="center"> I have a particular set of skills. Skills that are valuable to people like you. So I will find you and I will work with you. </p>
 
 ```diff
 ++ React
