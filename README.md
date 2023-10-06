@@ -8,6 +8,7 @@
 ++ Remix
 ++ Laravel
 ++ Next
+++ NestJS
 ++ GraphQL
 
 ```
