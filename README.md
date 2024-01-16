@@ -1,5 +1,8 @@
 ```
-;
+Typescript
+Javascript
+PHP
+Python
 ```
 
 
