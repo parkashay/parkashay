@@ -1,9 +1,5 @@
 ```
-Typescript
-Javascript
-PHP
-Python
-Java
+Nextjs, React, Remix, Laravel
 ```
 
 
