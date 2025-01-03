@@ -1,5 +1,5 @@
 ```
-Nextjs, React, Remix, Laravel
+Nextjs, React, Remix
 ```
 
 
